@@ -20,7 +20,6 @@ A feature-rich and visually polished clone of the classic **Tetris**, developed 
 
 - **Language:** C++  
 - **Graphics & Audio:** SFML (Simple and Fast Multimedia Library)
-- **Note:** Make sure SFML is installed on your device
 
 ---
 
