@@ -28,5 +28,8 @@ A feature-rich and visually polished clone of the classic **Tetris**, developed 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/tetris-sfml.git
-   cd tetris-sfml
+   git clone https://github.com/Arsal-Temuri/Tetris-SFML-C-Plus-Plus.git
+   cd Tetris-SFML-C-Plus-Plus
+
+2. **Make sure SFML is installed on your computer.**
+You can download it from https://www.sfml-dev.org/download.php and configure it with your preferred IDE or compiler.
